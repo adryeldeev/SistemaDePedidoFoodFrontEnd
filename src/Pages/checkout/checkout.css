@@ -1,0 +1,33 @@
+.box-checkout{
+    border:1px solid #cccccccc;
+    border-radius:4px;
+    margin:25px;
+    padding:20px;
+
+}
+
+
+
+.input-group{
+    margin-bottom: 30px;
+}
+
+.box-checkout h3{
+    margin-top: 0px;
+}
+.box-checkout p{
+    margin:0px;
+}
+
+.checkout-valores{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.checkout_button{
+    margin-top: 180px;
+}
+
+
